@@ -1,11 +1,15 @@
-import logo from './logo.svg';
+
+
 import './App.css';
-import CardGroup from './Components/CardGroup/CardGroup';
+import Carts from './Components/Carts/Carts';
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <CardGroup></CardGroup>
+      <Carts></Carts>
     </div>
   );
 }
